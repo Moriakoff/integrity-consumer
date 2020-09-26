@@ -1,0 +1,1 @@
+events_from_bigtable|test_data|result
